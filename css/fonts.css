@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'opensans-semibold';
+  src: url('../fonts/OpenSans-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'firasans-bold';
+  src: url('../fonts/FiraSans-Bold.ttf');
+}
